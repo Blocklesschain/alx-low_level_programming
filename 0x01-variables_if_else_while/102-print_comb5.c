@@ -19,7 +19,7 @@ int main(void)
 
 							{
 								if (((k + j) > (c + i) &&  k >= c) || c < k)
-    		{
+		{
 		putchar(c);
 		putchar(i);
 		putchar(' ');
@@ -31,15 +31,15 @@ int main(void)
 				break;
 					}
 					else
-     						{
+						{
 						putchar(',');
 						putchar(' ');
-     						}
-    					}
-    				}
-   			}
-  		}
- 	}
+						}
+					}
+				}
+			}
+		}
+	}
 	putchar('\n');
 	return (0);
 }
