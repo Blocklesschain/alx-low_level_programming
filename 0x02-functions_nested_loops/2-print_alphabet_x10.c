@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet_x10 - function that prints 10x alphabets
- * 
  * Return: always 0
  */
 
